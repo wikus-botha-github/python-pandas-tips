@@ -1,4 +1,4 @@
-# Pandas Tips Repository
+# Pandas Tips Repository 🐼
 
 Welcome to the Pandas Tips Repository! This repository is a collection of helpful tips and examples for using the Pandas library in Python.
 
